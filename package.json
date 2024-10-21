@@ -12,6 +12,7 @@
     "@types/node": "^22.7.5"
   },
   "dependencies": {
-    "@azure/cosmos": "^4.1.1"
+    "@azure/cosmos": "^4.1.1",
+    "playwright": "^1.48.0"
   }
 }
